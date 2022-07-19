@@ -17,7 +17,7 @@ button {
     width: 40px;
     border-radius: 50%;
     border: 2px solid white;
-    background-color: rgb(241, 214, 214);
+    background-color: rgb(143, 11, 148);
     color: white;
     font-size: 16pt;
     font-weight: 600;
@@ -26,9 +26,14 @@ button {
 
 #counter {
     display: flex;
+    color: white;
 }
 
+h1{
+    color: white;
+}
 #currentNumber {
+    color: white;
     display: flex;
     align-items: center;
     margin: 0 20px;
